@@ -17,9 +17,9 @@ Learning / training dataset holds ~200k entries while the testing dataset holds 
 
 # Table of Contents
 
-README.md
-Dataiku DS Assessment - Rickheim.pptx
-Dataiku_DS_Assessment.ipynb
+README.md  
+Dataiku DS Assessment - Rickheim.pptx  
+Dataiku_DS_Assessment.ipynb  
 
 # Notes on running Python Notebook
 
